@@ -1,5 +1,9 @@
 Ryan McVicker
 ============
+> <ryanmcvicker@protonmail.com> • +765 212-7321 • 21 years old\
+> Address - 4010 W Housing Dr. 
+ [Personal Website](https://ryanmcvicker12.github.io)
+
 
 ---- 
 
@@ -22,34 +26,31 @@ Education
 Technical Experience
 --------------------
 
-Garble
+GarbleWeb
 :  An anagram solver website made with ES6 Javascript & JQuery  
 
-    * Time based word game that tests 
-      indentation levels in the markdown source.
-    * Second item.
+    * Timed anagram solver 
+     
+Garble 
+: Command line Game where the player has to find words that can be created with a given set of letters
 
-AintPaint, A Customized Microsoft Paint clone made in java.
+AintPaint 
+:  A Customized Microsoft Paint clone made in java.
 
-Programming Languages
-:   **Java** Experience creating graphical applications with JavaFX such as a Microsoft Paint clone. Also some generative art applications 
-    such as the circle generator.
-:   **Python** First programming language I picked up after playing with HTML when I was in 8th grade.
-    I have Experience with web development frameworks like Flask and Django. 
+JavaFXBlackJack
+: BlackJack in java 
+
+
+Technical Skills
+--------------------
+   **Java** Experience creating graphical applications with JavaFX such as a Microsoft Paint clone. Also some generative art applications such as the circle generator.
+   
+   **Python** First programming language I picked up after playing with HTML when I was in 8th grade.
+    I have Experience with web development frameworks like Flask and Django.  
+
     
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **V lang** Obscure Strict Language inspired by C	
-    
-
-Computer Networking 
-
-
-:   Basic knowledge of,  **x86 assembly**, **Golang**, **Kotlin**,**TCP/IP**,**DHCP**,**DNS**,**GDB**,**Radare2**,**Linux/Windows Servers**,**Bash**
+:   Basic knowledge of,  **ANSI C**,**x86 assembly**, **Golang**, **Kotlin**,**TCP/IP**,**DHCP**,**DNS**,**GDB**,**Radare2**,**Linux/Windows Servers**,**Bash**,**ReactJS**, **SSH**,**C#**, **Unity**
 
 
 [ref]: https://github.com/ryanmcvicker12
