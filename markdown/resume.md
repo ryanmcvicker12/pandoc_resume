@@ -22,15 +22,14 @@ Education
 Technical Experience
 --------------------
 
-Garble, An anagram solver.
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Garble
+:  An anagram solver website made with ES6 Javascript & JQuery  
 
-    * These items can also contain lists, but you need to mind the
+    * Time based word game that tests 
       indentation levels in the markdown source.
     * Second item.
 
-JPaint
+AintPaint, A Customized Microsoft Paint clone made in java.
 
 Programming Languages
 :   **Java** Experience creating graphical applications with JavaFX such as a Microsoft Paint clone. Also some generative art applications 
